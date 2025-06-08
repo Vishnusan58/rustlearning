@@ -34,6 +34,10 @@ fn main() {
     // games::guess_game::main()// Call the guess_game function from the games module
     // learn::mock::looping();
         // learn::tsrunner::run();
-    learn::bas::bas();
+    // learn::bas::bas();
+    // learn::fibbnnoic::call_fib()
+    // learn::count_string::get_string()
+    //This is Struct
+    learn::Structses::useds()
 }
 
